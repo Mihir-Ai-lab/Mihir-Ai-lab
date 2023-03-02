@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Consortium-As-A-Service platform for Fintechs<br>👯 I’m looking to collaborate on Finance related codes<br>🤝 I’m looking for help with Credit Underwriting<br>🌱 I’m currently learning RNN's<br>💬 Ask me about Domain knowledge in Finance<br>⚡ Fun fact - I am actually a Marketing guy
+🔭 I’m currently working on a Consortium-As-A-Service<br>👯 I’m looking to collaborate on Finance related codes<br>🤝 I’m looking for help with Credit Underwriting<br>🌱 I’m currently learning RNN's<br>💬 Ask me about Domain knowledge in Finance<br>⚡ Fun fact - I am actually a Marketing guy
 
 
 ## 🌐 Socials:
