@@ -11,9 +11,13 @@
 - Ask me about Domain knowledge in Finance
 - I am actually a Marketing guy
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Mihir-Ai-lab&icon=2&color=9)](https://visitcount.itsvg.in)---
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Mihir-Ai-lab&icon=1&color=bbbcbc" alt="Visit Count">
+  </a>
+</p>
+  
+[![Visit Count](https://img.shields.io/badge/dynamic/json?label=Visitors&color=bbbcbc&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyour-username%2Fyour-repo-name)](https://your-repo-url)
 
 ---
 
