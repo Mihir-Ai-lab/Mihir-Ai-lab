@@ -30,4 +30,4 @@ Check out my GitHub Trophies!
 ![](https://github-profile-trophy.vercel.app/?username=Mihir-Ai-lab&theme=flat&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&count_private=true&bgColor=#f5f5f5&title=Followers,Stars,Repositories,Commit,MultiLanguage)
 
 ---
-<p align="center"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20footer%20no%20link.png"></p>
+<p align="center"><a href="https://thedatascienceguy.go.studio/"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20footer%20no%20link.png"></a></p>
