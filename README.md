@@ -8,8 +8,6 @@ Hi there! My name is Mihir, and I am a Marketing guy who is passionate about dat
 ---
 # Tech Stack
 
-Here are the technologies I'm proficient in:
-
 | Technology      | Tools |
 | ----------- | ----------- |
 | Python      | Scikit-learn, NumPy, Pandas, TensorFlow, Keras, Flask, Django, DjangoREST, OpenCV       |
