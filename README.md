@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"></p>
+<p align="center"><a href="https://thedatascienceguy.info/portfolio/"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"></a></p>
 
 ---
 # About Me
