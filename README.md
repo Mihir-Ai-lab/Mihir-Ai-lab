@@ -3,7 +3,11 @@
 ---
 # About Me
 
-Hi there! My name is Mihir, and I am a Marketing guy who is passionate about data science and finance. Currently, I am working on the development of a Consortium-As-A-Service platform. I am also interested in collaborating on finance-related codes and looking for help with credit underwriting. I am always learning and currently exploring RNNs. Feel free to ask me about domain knowledge in finance!
+I am a Marketing and Business Management professional who is passionate about leveraging Data Science and Finance to build scalable and resilient tech systems. I am currently working on developing a Consortium-As-A-Service platform and collaborating on finance-related codes.
+
+With over a decade of experience in Business Analysis and Branding Strategies, I possess the skills to solve complex problems and drive business growth. I have developed a proactive approach to identifying architectural weaknesses and recommending appropriate solutions through my family ventures in logistics and manufacturing.
+
+I enjoy automating tasks and addressing recurring problems to streamline processes. If you are looking for someone with expertise in Data Science, Branding Strategies, or Business Analysis, let's connect and discuss how I can help you build systems that thrive in today's fast-paced environment.
 
 ---
 # Tech Stack
