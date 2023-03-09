@@ -26,6 +26,7 @@ I enjoy automating tasks and addressing recurring problems to streamline process
 # Portfolio
 
 - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
+- [BFSI codes](https://github.com/Mihir-Ai-lab/BFSI/tree/main "BFSI codes")
 
 ---
 # GitHub Stats
