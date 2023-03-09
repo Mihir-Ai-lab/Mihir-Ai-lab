@@ -22,7 +22,7 @@ I enjoy automating tasks and addressing recurring problems to streamline process
 | Design   | Canva        |
 | Other Tools   | Apache, Anaconda, SciPy        |
 
---
+---
 # Portfolio
 
 - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
