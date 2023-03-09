@@ -3,9 +3,9 @@
 ---
 # About Me
 
-I am a Marketing and Business Management professional who is passionate about leveraging Data Science and Finance to build scalable and resilient tech systems. I am currently working on developing a Consortium-As-A-Service platform and collaborating on finance-related codes.
+I am a Marketing and Business Management professional who is passionate about leveraging Data Science to build scalable and resilient tech systems. I am currently working on developing a Consortium-As-A-Service platform and collaborating on finance-related codes.
 
-With over a decade of experience in Business Analysis and Branding Strategies, I possess the skills to solve complex problems and drive business growth. I have developed a proactive approach to identifying architectural weaknesses and recommending appropriate solutions through my family ventures in logistics and manufacturing.
+With over a decade of experience in Business Analysis and Branding Strategies and a recent exposure to the BFSI industry, I possess the skills to solve complex problems and drive business growth. I have developed a proactive approach to identifying architectural weaknesses and recommending appropriate solutions through my family ventures in logistics and manufacturing.
 
 I enjoy automating tasks and addressing recurring problems to streamline processes. If you are looking for someone with expertise in Data Science, Branding Strategies, or Business Analysis, let's connect and discuss how I can help you build systems that thrive in today's fast-paced environment.
 
