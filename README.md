@@ -16,8 +16,6 @@ I enjoy automating tasks and addressing recurring problems to streamline process
 | ----------- | ----------- |
 | Python      | Scikit-learn, NumPy, Pandas, TensorFlow, Keras, Flask, Django, DjangoREST, OpenCV       |
 | Cloud Services   | AWS, Azure, Google Cloud        |
-| Frontend   | Angular.js, React, Vue.js        |
-| Backend   | .Net        |
 | Databases   | MongoDB, Neo4J, Postgres        |
 | Design   | Canva        |
 | Other Tools   | Apache, Anaconda, SciPy        |
