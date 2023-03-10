@@ -7,7 +7,7 @@ I am a Marketing and Business Management professional who is passionate about le
 
 With over a decade of experience in Business Analysis and Branding Strategies and a recent exposure to the BFSI industry, I possess the skills to solve complex problems and drive business growth. I have developed a proactive approach to identifying architectural weaknesses and recommending appropriate solutions through my family ventures in logistics and manufacturing.
 
-I enjoy automating tasks and addressing recurring problems to streamline processes. If you are looking for someone with expertise in Data Science, Branding Strategies, or Business Analysis, let's connect and discuss how I can help you build systems that thrive in today's fast-paced environment.
+I enjoy automating tasks and addressing recurring problems to streamline processes.
 
 ---
 # Tech Stack
