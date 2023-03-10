@@ -3,11 +3,9 @@
 ---
 # About Me
 
-I am a Marketing and Business Management professional who is passionate about leveraging Data Science, Hyperledgers, Api & Other Big Data Solutions to build scalable and resilient tech systems. I am currently working on developing a Consortium-As-A-Service platform and collaborating on BFSI codes.
+I am a Marketing and Business Management professional who is passionate about leveraging Data Science, Hyperledgers, Api & Other Big Data Solutions to build scalable and resilient tech systems. I am currently working on developing a Consortium-As-A-Service platform and collaborating on [BFSI codes](https://github.com/Mihir-Ai-lab/BFSI/tree/main "BFSI codes")
 
-With over a decade of experience in Business Analysis and Branding Strategies and a recent exposure to the BFSI industry, I possess the skills to solve complex problems and drive business growth. I have developed a proactive approach to identifying architectural weaknesses and recommending appropriate solutions through my family ventures in logistics and manufacturing.
-
-I enjoy automating tasks and addressing recurring problems to streamline processes.
+With over a decade of experience in Business Analysis and Branding Strategies and a recent exposure to the BFSI industry, I possess the skills to solve complex problems and drive business growth. I enjoy automating tasks and addressing recurring problems to streamline processes.
 
 ---
 # Tech Stack
@@ -24,7 +22,6 @@ I enjoy automating tasks and addressing recurring problems to streamline process
 # Portfolio
 
 - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
-- [BFSI codes](https://github.com/Mihir-Ai-lab/BFSI/tree/main "BFSI codes")
 
 ---
 # GitHub Stats
