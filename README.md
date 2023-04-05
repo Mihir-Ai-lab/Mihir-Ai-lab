@@ -20,13 +20,13 @@ Here are some of the technologies, tools, and frameworks that I work with and ex
 | Big Data | Apache Kafka, Apache Nifi |
 | Blockchain | Hyperledger Fabric, Hyperledger Sawtooth |
 | Data Privacy | Palisade |
-| Design | Canva, Figma |
+| Design | Canva, Figma, Sketch, Adobe Creative Suite |
 | Other Tools | Anaconda, SciPy, Git, Jupyter Notebook, VS Code |
 
 ## Portfolio
 
-- [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
-- [Ostrich Solutions (my startup idea)](https://github.com/Mihir-Ai-lab/Ostrich_solutions/tree/main "Ostrich Solutions")
+- [Sample Academic Projects](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
+- [Ostrich Solutions (looking for colaborators)](https://github.com/Mihir-Ai-lab/Ostrich_solutions/tree/main "Ostrich Solutions")
 - [Freelancing Projects](https://github.com/Mihir-Ai-lab/The_Data_Science_Guy "Freelancing Projects")
 
 ## GitHub Stats
