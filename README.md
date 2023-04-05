@@ -10,7 +10,7 @@ Apart from my tech pursuits, I help run my family businesses, including Starclay
 
 ## Tech Stack
 
-Here are some of the technologies, tools, and frameworks that I work with and expect my collaborators to be proficient in:
+Here are some of the technologies, tools, and frameworks that i like towork with and expect my collaborators to be proficient in:
 
 | Technology | Tools |
 | --- | --- |
