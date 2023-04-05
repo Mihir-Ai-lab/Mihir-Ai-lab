@@ -11,7 +11,7 @@ I am a Marketing and Business Management professional who is passionate about le
 | Technology | Tools |
 | --- | --- |
 | Python | Scikit-learn, NumPy, Pandas, TensorFlow, Keras, PyTorch, Spark, Hadoop, Flask, Django, DjangoREST, OpenCV, NLTK, Plotly, Streamlit |
-| Cloud Services | AWS, Azure, Google Cloud, Oracle Cloud |
+| Cloud Services | AWS, Azure, Google Cloud |
 | Databases | MongoDB, Neo4J, Postgres, MySQL, SQLite, Cassandra |
 | Design | Canva, Figma |
 | Other Tools | Anaconda, SciPy, Git, Jupyter Notebook, VS Code |
