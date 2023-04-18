@@ -25,7 +25,7 @@ Here are some of the technologies, tools, and frameworks that i like to work wit
 
 ## Portfolio
 
-- [Sample Academic Projects](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
+- [Sample Academic Projects](https://github.com/Mihir-Ai-lab/Academic-Projects/tree/main "Sample Projects with Insaid")
 - [Ostrich Solutions (looking for colaborators)](https://github.com/Mihir-Ai-lab/Ostrich_solutions/tree/main "Ostrich Solutions")
 - [Freelancing Projects](https://github.com/Mihir-Ai-lab/The_Data_Science_Guy "Freelancing Projects")
 
