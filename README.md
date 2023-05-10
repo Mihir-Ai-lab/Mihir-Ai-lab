@@ -31,8 +31,6 @@ Here are some of the technologies, tools, and frameworks that i like to work wit
 
 ## GitHub Stats 
 
-[![Visitor Count](https://img.shields.io/badge/dynamic/json?color=bbbcbc&label=Visitors&query=$.value&url=https://api.countapi.xyz/hit/Mihir-Ai-lab/Mihir-Ai-lab)](https://github.com/Mihir-Ai-lab/Mihir-Ai-lab)
-
 ![](https://github-profile-trophy.vercel.app/?username=Mihir-Ai-lab&theme=flat&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&count_private=true&bgColor=#f5f5f5&title=Followers,Stars,Repositories,Commit,MultiLanguage)
 
 
