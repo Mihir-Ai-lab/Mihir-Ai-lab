@@ -10,18 +10,19 @@ In addition to my tech pursuits, I play a pivotal role in managing my family bus
 
 ## Tech Stack
 
-Here are some of the technologies, tools, and frameworks that i like to work with and expect my collaborators to be proficient in:
+Here's a snapshot of what I am currently using:
 
 | Technology | Tools |
 | --- | --- |
-| Python | Scikit-learn, NumPy, Pandas, TensorFlow, Keras, PyTorch, Spark, Hadoop, Flask, Django, DjangoREST, OpenCV, NLTK, Plotly, Streamlit |
-| Cloud Services | AWS, Azure, Google Cloud |
-| Databases | MongoDB, Neo4J, Postgres, MySQL, SQLite, Cassandra |
-| Big Data | Apache Kafka, Apache Nifi |
-| Blockchain | Hyperledger Fabric, Hyperledger Sawtooth |
-| Data Privacy | Palisade |
-| Design | Canva, Figma, Sketch, Adobe Creative Suite |
-| Other Tools | Anaconda, SciPy, Git, Jupyter Notebook, VS Code |
+| Python | Scikit-learn, NumPy, Pandas, TensorFlow, Keras, PyTorch, Spark |
+| Cloud Services | AWS |
+| Databases | MongoDB, Postgres, MySQL, SQLite |
+| Visualization | Plotly, Tableau, PowerBI |
+| Design | Canva, Figma |
+| Microsoft Tools | Excel, Word, PowerPoint |
+| Version Control | Git |
+| Notebooks | Jupyter Notebook |
+| Integrated Development Environment | VS Code |
 
 ## Portfolio
 
