@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.png"></a></p>
+<p align="center"><a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.jpg"></a></p>
 
 ---
 
