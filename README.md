@@ -6,9 +6,11 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm Mihir Thakkar — Founder & CEO of **Ostrich AI**, where we're building secure and scalable AI infrastructure for enterprises. My journey spans business ops, manufacturing, logistics, and applied AI — all leading to one goal: turning real-world friction into systemized intelligence.
+I'm Mihir Thakkar — Founder & CEO of **Ostrich AI**, where we're building secure and scalable AI infrastructure for enterprises. 
+
+My journey spans business ops, manufacturing, logistics, and applied AI — all leading to one goal: turning real-world friction into systemized intelligence.
 
 🔐 Recently granted a **patent** for a dual-key, blockchain-based architecture for enterprise-grade AI deployment — designed with compliance and IP protection at its core.
 
