@@ -4,8 +4,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 I'm Mihir Thakkar — Founder & CEO of **Ostrich AI**, where we're building secure and scalable AI infrastructure for enterprises. 
